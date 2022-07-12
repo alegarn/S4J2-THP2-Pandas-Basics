@@ -1,4 +1,4 @@
-# S4J2-THP2-Pandas-Numpy
+# S4J2-THP2-Pandas
 
 ### Jupyter Notebook basic traning
 
